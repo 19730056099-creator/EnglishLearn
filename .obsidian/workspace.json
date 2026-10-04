@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "a40eb7b3c75a0338",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5cfd87494a5b075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcef244fd5bfd4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "词块/意群看不懂怎么办.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "意群看不懂怎么办"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd96d4509900145b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5a336ece8736c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f590c30f54083f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "77ae09f1a120b0ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ce25dafbd46fc993",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b677718c9a35a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "589b163f509ee9a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3749eb8e3232c6fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "词块/意群看不懂怎么办.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "83d6bd6754119e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "popitem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "popitem 的出链列表"
+            }
+          },
+          {
+            "id": "c093ef1165149a72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2798a2ff6947e93b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "02d7697f43809703",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "popitem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "popitem 的大纲"
+            }
+          },
+          {
+            "id": "37934d03ef0af10a",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791108875213-jdnye01",
+                      "conversationId": "conv-1791109320441-n2um08wp8"
+                    }
+                  ],
+                  "activeTabId": "tab-1791108875213-jdnye01"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "a71a3e69b59e994c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 525.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "37934d03ef0af10a",
+  "lastOpenFiles": [
+    "词块/英语词块总览.md",
+    "词块/英语词块总览.md.tmp.11512.bdcabdf269f8",
+    "词块/意群看不懂怎么办.md",
+    "短语/have a foot in both camps.md",
+    "词块",
+    "collection/未命名.md",
+    "collection",
+    "短语/in the redblue corner.md",
+    "短语/queue around the block.md",
+    "单词/meta level.md",
+    "单词/hospitality.md",
+    "单词/venue.md",
+    "短语/under-the-radar.md",
+    "单词",
+    "短语/truck in.md",
+    "短语",
+    "venue.md.baiduyun.uploading.cfg",
+    "未命名.md.baiduyun.uploading.cfg",
+    "hospitality.md.baiduyun.uploading.cfg",
+    "单词/compile.md",
+    "单词/Node.md",
+    "单词/pop.md",
+    "单词/popitem.md",
+    "单词/template.md",
+    "Node.md.baiduyun.uploading.cfg",
+    "欢迎.md"
+  ]
+}
